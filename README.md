@@ -13,7 +13,7 @@ This GitHub is certainly a WIP, but I'm excited to release more projects in due 
 ~~(I'm still learning about most if not all of the things I'm working with)~~
 
 
-📫 Feel free to reach me through [LinkedIn](https://www.linkedin.com/in/sharminzaman/)!
+📫 Feel free to reach me through [LinkedIn](https://www.linkedin.com/in/sharminzaman/) or [Twitter](https://www.twitter.com/secureroomba/)!
 
 <!--
 **sharmkn/sharmkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
