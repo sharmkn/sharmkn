@@ -2,8 +2,6 @@
 
 #### 💬 3rd year Mechatronic Engineering/Computer Science student | Software Engineering Intern
 
-📝 I primarily work with ReactJS as my job revolves around front-end development, but in my own time I've been working on projects that are mainly in Python. 
-
 🙇‍♀️ My interests lie within cybersecurity and artificial intelligence, and hope to dive deeper within both disciplines as I continue studying both within and outside of my degree.
 
 🎯 I enjoy playing around with a good API, web scraping, and designing UIs.
